@@ -126,7 +126,7 @@ justify-content: center;
 /*main body*/
 .main_body{
     display: flex;
-    height: 70vx;   
+    height: 70vh;   
 }
 body{
     height: 100vh;
